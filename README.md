@@ -9,11 +9,6 @@ Anwers order on the questions page is randomized on every load.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Notes
-I played with React Styled Components https://styled-components.com/ \
-that are a great way to keep styles close to the code. \
-Especially useful for customizing styles on the component level.
-
 ## What is missing
 Currently the session key is not implemented what means you will always load the same 10 questions.
 
@@ -46,4 +41,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 
 ### License
- MIT
+MIT
